@@ -1,0 +1,12065 @@
+{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "$1.90",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$145.39",
+ "DayChange": "0.13%"
+}{
+ "Name": "",
+ "Price": "$12.50",
+ "DayChange": "4.89%"
+}{
+ "Name": "",
+ "Price": "$123.45",
+ "DayChange": "1.61%"
+}{
+ "Name": "",
+ "Price": "$6.12",
+ "DayChange": "-6.42%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "4.26%"
+}{
+ "Name": "",
+ "Price": "$4.24",
+ "DayChange": "2.49%"
+}{
+ "Name": "",
+ "Price": "$11.17",
+ "DayChange": "-0.12%"
+}{
+ "Name": "",
+ "Price": "$0.16",
+ "DayChange": "-1.86%"
+}{
+ "Name": "",
+ "Price": "$5.35",
+ "DayChange": "-1.06%"
+}{
+ "Name": "",
+ "Price": "$2.27",
+ "DayChange": "5.57%"
+}{
+ "Name": "",
+ "Price": "$0.49",
+ "DayChange": "-4.68%"
+}{
+ "Name": "",
+ "Price": "$49367.11",
+ "DayChange": "1.56%"
+}{
+ "Name": "",
+ "Price": "$33000.06",
+ "DayChange": "-2.15%"
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": "0.59%"
+}{
+ "Name": "",
+ "Price": "$20.96",
+ "DayChange": "-1.66%"
+}{
+ "Name": "",
+ "Price": "$4.61",
+ "DayChange": "-2.78%"
+}{
+ "Name": "",
+ "Price": "$0.22",
+ "DayChange": "-6.23%"
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": "7.14%"
+}{
+ "Name": "",
+ "Price": "$1.09",
+ "DayChange": "-1.23%"
+}{
+ "Name": "",
+ "Price": "$18.02",
+ "DayChange": "4.57%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "-0.13%"
+}{
+ "Name": "",
+ "Price": "$1.39",
+ "DayChange": "2.43%"
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": "11.55%"
+}{
+ "Name": "",
+ "Price": "$1.73",
+ "DayChange": "-1.24%"
+}{
+ "Name": "",
+ "Price": "$9.56",
+ "DayChange": "-0.86%"
+}{
+ "Name": "",
+ "Price": "$6.55",
+ "DayChange": "15.93%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "25.40%"
+}{
+ "Name": "",
+ "Price": "$0.94",
+ "DayChange": "3.55%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "6.48%"
+}{
+ "Name": "",
+ "Price": "$49039.39",
+ "DayChange": "0.76%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$0.99",
+ "DayChange": "5.91%"
+}{
+ "Name": "",
+ "Price": "$33.50",
+ "DayChange": "11.50%"
+}{
+ "Name": "",
+ "Price": "$3.97",
+ "DayChange": "1.39%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.09%"
+}{
+ "Name": "",
+ "Price": "$0.98",
+ "DayChange": "-8.08%"
+}{
+ "Name": "",
+ "Price": "$5.33",
+ "DayChange": "3.85%"
+}{
+ "Name": "",
+ "Price": "$0.04",
+ "DayChange": "6.03%"
+}{
+ "Name": "",
+ "Price": "$0.56",
+ "DayChange": "-0.98%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.09%"
+}{
+ "Name": "",
+ "Price": "$4.71",
+ "DayChange": "-1.60%"
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": "-6.63%"
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": "-0.71%"
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": "-3.24%"
+}{
+ "Name": "",
+ "Price": "$0.34",
+ "DayChange": "8.28%"
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": "-10.65%"
+}{
+ "Name": "",
+ "Price": "$5.27",
+ "DayChange": "-0.97%"
+}{
+ "Name": "",
+ "Price": "$2.58",
+ "DayChange": "21.60%"
+}{
+ "Name": "",
+ "Price": "$15.06",
+ "DayChange": "16.28%"
+}{
+ "Name": "",
+ "Price": "$45.65",
+ "DayChange": "-4.00%"
+}{
+ "Name": "",
+ "Price": "$0.09",
+ "DayChange": "25.19%"
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": "2.06%"
+}{
+ "Name": "",
+ "Price": "$27.56",
+ "DayChange": "2.53%"
+}{
+ "Name": "",
+ "Price": "$15.87",
+ "DayChange": "-8.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,161.63",
+ "DayChange": "0.83%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,540.73",
+ "DayChange": "1.05%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.19",
+ "DayChange": "2.52%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$239.24",
+ "DayChange": "0.32%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.04%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.33",
+ "DayChange": "1.84%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4403",
+ "DayChange": "0.07%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.31",
+ "DayChange": "0.62%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.97",
+ "DayChange": "0.59%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$511.04",
+ "DayChange": "1.85%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.41",
+ "DayChange": "-1.32%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$25.01",
+ "DayChange": "-2.98%"
+}{
+ "Name": "",
+ "Price": "$0.74",
+ "DayChange": "-11.75%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "-0.16%"
+}{
+ "Name": "",
+ "Price": "$49112.16",
+ "DayChange": "0.74%"
+}{
+ "Name": "",
+ "Price": "$386.51",
+ "DayChange": "-2.55%"
+}{
+ "Name": "",
+ "Price": "$20.56",
+ "DayChange": "8.37%"
+}{
+ "Name": "",
+ "Price": "$3.87",
+ "DayChange": "2.85%"
+}{
+ "Name": "",
+ "Price": "$215.16",
+ "DayChange": "-2.09%"
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": "-4.02%"
+}{
+ "Name": "",
+ "Price": "$3.76",
+ "DayChange": "-3.51%"
+}{
+ "Name": "",
+ "Price": "$13.71",
+ "DayChange": "-2.39%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "4.03%"
+}{
+ "Name": "",
+ "Price": "$185.65",
+ "DayChange": "-0.73%"
+}{
+ "Name": "",
+ "Price": "$1.18",
+ "DayChange": "-0.59%"
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": "15.21%"
+}{
+ "Name": "",
+ "Price": "$16.60",
+ "DayChange": "15.02%"
+}{
+ "Name": "",
+ "Price": "$30.44",
+ "DayChange": "1.41%"
+}{
+ "Name": "",
+ "Price": "$7.20",
+ "DayChange": "7.41%"
+}{
+ "Name": "",
+ "Price": "$3.74",
+ "DayChange": "-2.41%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "",
+ "Price": "$38.55",
+ "DayChange": "-0.14%"
+}{
+ "Name": "",
+ "Price": "$23.11",
+ "DayChange": "1.11%"
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": "-0.04%"
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": "7.66%"
+}{
+ "Name": "",
+ "Price": "$142.60",
+ "DayChange": "6.19%"
+}{
+ "Name": "",
+ "Price": "$1.88",
+ "DayChange": "3.33%"
+}{
+ "Name": "",
+ "Price": "$41.03",
+ "DayChange": "5.73%"
+}{
+ "Name": "",
+ "Price": "$477.77",
+ "DayChange": "-4.06%"
+}{
+ "Name": "",
+ "Price": "$17.27",
+ "DayChange": "-4.40%"
+}{
+ "Name": "",
+ "Price": "$218.86",
+ "DayChange": "-0.78%"
+}{
+ "Name": "",
+ "Price": "$2136.21",
+ "DayChange": "-4.51%"
+}{
+ "Name": "",
+ "Price": "$26.77",
+ "DayChange": "0.18%"
+}{
+ "Name": "",
+ "Price": "$239.96",
+ "DayChange": "-1.87%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,565.54",
+ "DayChange": "2.23%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,579.15",
+ "DayChange": "0.75%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$238.29",
+ "DayChange": "2.56%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.14",
+ "DayChange": "6.92%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "Polkadot",
+ "Price": "$35.89",
+ "DayChange": "3.86%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4801",
+ "DayChange": "7.89%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.26",
+ "DayChange": "2.41%"
+}{
+ "Name": "Chainlink",
+ "Price": "$28.89",
+ "DayChange": "4.60%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$514.48",
+ "DayChange": "3.10%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,794.43",
+ "DayChange": "1.92%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,586.79",
+ "DayChange": "0.34%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$238.78",
+ "DayChange": "2.66%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.15",
+ "DayChange": "6.74%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.03",
+ "DayChange": "3.59%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4847",
+ "DayChange": "8.51%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.86",
+ "DayChange": "2.41%"
+}{
+ "Name": "Chainlink",
+ "Price": "$29.04",
+ "DayChange": "4.20%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$516.60",
+ "DayChange": "2.95%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.42",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$29.35",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$49589.57",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$392.83",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.25",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$20.16",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$215.90",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$3.85",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.30",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$13.50",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$186.10",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$7.98",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$16.38",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$3.84",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$31.04",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$39.11",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$154.07",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$22.60",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.94",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$41.46",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$18.51",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$487.92",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$2206.21",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$216.98",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$245.75",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$26.46",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.92",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$148.59",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$12.30",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$123.63",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.13",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$6.14",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$11.50",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$5.60",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.30",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.51",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.17",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$2.24",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$49293.76",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$33301.53",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$21.47",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.97",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.34",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.63",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.11",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.44",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.21",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.71",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$17.48",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$7.06",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$9.65",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.01",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$39.44",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.23",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$49424.93",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$3.95",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.58",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$5.29",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.79",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.42",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.02",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$5.78",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$45.99",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$16.52",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$27.95",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "Bitcoin",
+ "Price": "$49,794.43",
+ "DayChange": "1.92%"
+}{
+ "Name": "Ethereum",
+ "Price": "$1,586.79",
+ "DayChange": "0.34%"
+}{
+ "Name": "Binance Coin",
+ "Price": "$238.78",
+ "DayChange": "2.66%"
+}{
+ "Name": "Cardano",
+ "Price": "$1.15",
+ "DayChange": "6.74%"
+}{
+ "Name": "Tether",
+ "Price": "$1.00",
+ "DayChange": "0.01%"
+}{
+ "Name": "Polkadot",
+ "Price": "$36.03",
+ "DayChange": "3.59%"
+}{
+ "Name": "XRP",
+ "Price": "$0.4847",
+ "DayChange": "8.51%"
+}{
+ "Name": "Litecoin",
+ "Price": "$185.86",
+ "DayChange": "2.41%"
+}{
+ "Name": "Chainlink",
+ "Price": "$29.04",
+ "DayChange": "4.20%"
+}{
+ "Name": "Bitcoin Cash",
+ "Price": "$516.60",
+ "DayChange": "2.95%"
+}{
+ "Name": "",
+ "Price": "",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.42",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$29.35",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.73",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$49589.57",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$392.83",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.25",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$20.16",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$215.90",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$3.85",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.30",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$13.50",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$186.10",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$7.98",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$16.38",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$3.84",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$31.04",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$39.11",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$154.07",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$22.60",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.15",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.94",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$41.46",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$18.51",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$487.92",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$2206.21",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$216.98",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$245.75",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$26.46",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.92",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$148.59",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$12.30",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$123.63",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.13",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$6.14",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$11.50",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$5.60",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.30",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.51",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.15",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.17",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$2.24",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$49293.76",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$33301.53",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$21.47",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.97",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.34",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.63",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.11",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.44",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.21",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.71",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$17.48",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$7.06",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$9.65",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.01",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$39.44",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.23",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$49424.93",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$3.95",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.05",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.14",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$3.99",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.58",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$5.29",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$1.00",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.79",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.42",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.12",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$4.02",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$5.78",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.06",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$2.21",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.01",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$45.99",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$16.52",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$27.95",
+ "DayChange": ""
+}{
+ "Name": "",
+ "Price": "$0.00",
+ "DayChange": ""
+}
