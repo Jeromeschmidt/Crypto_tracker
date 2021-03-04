@@ -46,7 +46,9 @@ func run(){
 
 		// msg, _ := client.Messages.SendMessage("+18787898352", "+14028407963", name + " is up " + dayChange + " in the past 24 hours", nil)
 		msg, _ := client.Messages.SendMessage(goDotEnvVariable("twilioNumber"), goDotEnvVariable("userNumber"), "Daily Crypto prices have been updated", nil)
-		fmt.Println(msg.Sid, msg.FriendlyPrice())
+		// fmt.Println(msg.Sid, msg.FriendlyPrice())
+		fmt.Println(msg.Body)
+
 		// 86400
         time.Sleep(time.Duration(86400 / updateFreq) * time.Second)
     }
@@ -59,8 +61,6 @@ func scrape() {
         c.OnHTML("tr", func(e *colly.HTMLElement) {
     		name, price, dayChange := "", "", ""
 
-
-            // class="sc-1v2ivon-0 gClTFY"
     		e.ForEach("td", func(i int, e2 *colly.HTMLElement) {
 
                 if i == 2 {
