@@ -8,6 +8,7 @@ require (
 	github.com/antchfx/xmlquery v1.3.5 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gocolly/colly v1.2.0 // indirect
+	github.com/joho/godotenv v1.3.0 // indirect
 	github.com/kennygrant/sanitize v1.2.4 // indirect
 	github.com/kevinburke/go-types v0.0.0-20201208005256-aee49f568a20 // indirect
 	github.com/kevinburke/go.uuid v1.2.0 // indirect

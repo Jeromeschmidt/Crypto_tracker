@@ -9,11 +9,8 @@ import (
 	"os"
 	"github.com/gocolly/colly"
     twilio "github.com/kevinburke/twilio-go"
+	"github.com/joho/godotenv"
 )
-
-// type Coins struct {
-// 	Coins []Coin `json:"Coins"`
-// }
 
 type Coin struct {
 	Name	string
@@ -26,18 +23,32 @@ func main() {
     run()
 }
 
+func goDotEnvVariable(key string) string {
+
+  // load .env file
+  err := godotenv.Load(".env")
+
+  if err != nil {
+    log.Fatalf("Error loading .env file")
+  }
+
+  return os.Getenv(key)
+}
 
 func run(){
-	client := twilio.NewClient("ACaf356b30e339a6e9d0dba1f51aa4d989", "284305ff72993b5ab89fb22732ed3f1d", nil)
+	// Update Frequency in a 24hr period
+	updateFreq := 1
+
+	client := twilio.NewClient(goDotEnvVariable("twilioSid"), goDotEnvVariable("twilioKey"), nil)
 
     for true {
         scrape()
 
 		// msg, _ := client.Messages.SendMessage("+18787898352", "+14028407963", name + " is up " + dayChange + " in the past 24 hours", nil)
-		msg, _ := client.Messages.SendMessage("+18787898352", "+14028407963", "Daily Crypto prices have been updated", nil)
+		msg, _ := client.Messages.SendMessage(goDotEnvVariable("twilioNumber"), goDotEnvVariable("userNumber"), "Daily Crypto prices have been updated", nil)
 		fmt.Println(msg.Sid, msg.FriendlyPrice())
 		// 86400
-        time.Sleep(28800 * time.Second)
+        time.Sleep(time.Duration(86400 / updateFreq) * time.Second)
     }
 }
 
@@ -58,7 +69,6 @@ func scrape() {
 
                         if j == 0 {
                             name = e3.Text
-                            // fmt.Println(e3.Text)
                         }
                     })
 
